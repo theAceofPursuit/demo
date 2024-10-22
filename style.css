@@ -1,0 +1,48 @@
+.explore{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 2.6em;
+    color: #808080;
+    border-color: cornflowerblue;
+    border-spacing: 0.2em;
+    text-shadow: #808080;
+}
+.family{
+    align-content: center;
+    color: aqua;
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#demon{
+    background: #bababa;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.9em;
+    text-decoration-color: 
+}
+.ball{
+    color: aqua;
+    font-size: xx-large;
+    line-height: 1.6em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#story{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2.6em;
+    background-color: cornflowerblue;
+    text-decoration: wavy;
+}
+#field{
+    background-image: inherit;
+    text-align: center;
+    grid-area: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#list{
+    background-origin: padding-box;
+    line-height: 2.6em;
+    background-position: 5em;
+}
+#doloribus{
+    background: cornflowerblue;
+}
